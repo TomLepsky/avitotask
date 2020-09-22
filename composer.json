@@ -1,0 +1,14 @@
+{
+  "name": "avitotask/app",
+  "autoload": {
+    "psr-4": {
+      "Avitotask\\": "src/"
+    }
+  },
+  "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2",
+      "ext-pdo": "*",
+    "ext-json": "*"
+  }
+}
