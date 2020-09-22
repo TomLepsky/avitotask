@@ -1,2 +1,2 @@
-Дамп Mysql : sql.sql
-Конфиг БД: src/config/config.php
+Dump MySQL : sql.sql
+Config to MySQL: src/config/config.php
